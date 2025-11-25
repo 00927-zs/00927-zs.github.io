@@ -3,7 +3,7 @@
 -------------------- */
 
 :root {
-  --theme-color: #00a0a0;
+  --theme-color: #a9ceec;
 }
 
 * {
@@ -81,6 +81,7 @@ th, td {
         height: 600px;
         width: auto;
 }
+
 
 
 
